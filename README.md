@@ -15,6 +15,13 @@
 - [ORM - Prisma](https://www.prisma.io/) - there are the best experiences compare to another frameworks
 - [Logging - Pino NestJS integration](https://github.com/iamolegga/nestjs-pino)
 
+
+
+--------------
+
+
+
+
 ## Hosting
 - https://www.youtube.com/watch?v=-zKYT2I_WhE
 
@@ -29,6 +36,11 @@
 ### [supabase](https://supabase.com/)
 - OSS version of Firebase
 - it is based on PostgreSQL
+
+
+
+--------------
+
 
 
 # FE
