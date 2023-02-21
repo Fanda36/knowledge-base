@@ -45,6 +45,8 @@
 
 # FE
 
+[Patterns](https://web.dev/patterns/)
+
 ## React
 
 ### [Next.js]()
