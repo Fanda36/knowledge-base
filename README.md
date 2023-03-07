@@ -24,6 +24,7 @@
 
 ## Hosting
 - https://www.youtube.com/watch?v=-zKYT2I_WhE
+- cutting edge DBs https://www.youtube.com/watch?v=jb2AvF8XzII
 
 ### [Scaleway](https://www.scaleway.com/en/)
 - serverless support
